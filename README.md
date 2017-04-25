@@ -3,7 +3,7 @@
 
 ## 优秀项目
 ### APM
-- (Pinpoint)[https://github.com/naver/pinpoint]
+- [Pinpoint](https://github.com/naver/pinpoint)
 
 ### JSON
 -
